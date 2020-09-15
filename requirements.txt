@@ -1,4 +1,4 @@
 flask
-flask_wtf
+flask-wtf
 wtforms
 email-validator
